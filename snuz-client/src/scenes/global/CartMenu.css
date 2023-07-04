@@ -1,0 +1,10 @@
+#checkout {
+    transition: all 0.3s ease-in-out;
+}
+
+#checkout:hover {
+    background-color: #333333;
+    color:white;
+    border: solid 1px;
+    transform: scale(0.99);
+}
