@@ -2,7 +2,6 @@
     height: 100%; 
     width: 100%;
     object-fit: cover;
-    position: fixed;
 }
 
 .main-page-content {
@@ -15,7 +14,7 @@
     justify-content: space-around;
     gap: 10vw;
     align-items: center;
-}
+} 
 
 .content {
     color: black;
